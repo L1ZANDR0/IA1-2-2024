@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# Mamani Ramos Lizandro
 # Generación de datos aleatorios controlados
 np.random.seed(42)  # Para reproducibilidad
 num_samples = 100
